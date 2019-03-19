@@ -1,0 +1,40 @@
+#container{
+    background-color: blueviolet; 
+}
+
+h1{
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+}
+
+img{
+    width:150px; 
+    height:150px; 
+    padding:15px; 
+    background-color:white; 
+    margin:30px;
+}
+
+#row{
+    padding:50px; 
+    
+}
+
+#displayArea{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white; 
+
+}
+ 
+p{
+    color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color:white;
+}
+
+#rockButtons{
+width:100%; 
+}
+
